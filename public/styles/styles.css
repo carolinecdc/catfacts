@@ -1,0 +1,9 @@
+body {
+background-image: url("../assets/images/catwallpapper.png");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.button {
+    background-color: #c49b87;
+}
